@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F9C22D86-979A-42BD-A67C-E0904306C1C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TaaliTimeManagement</RootNamespace>
+    <AssemblyName>TaaliTimeManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Shamsi">
+      <HintPath>..\..\Shamsi\Shamsi\bin\Debug\Shamsi.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WiseTextBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Controls\WiseTextBox\WiseTextBox\bin\Release\WiseTextBox.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttachToTaaliClasses.cs" />
+    <Compile Include="bin\Release\DailyReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Release\TimeTableReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TimeTableReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Release\TodayReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TodayReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ClassroomCategory\BaseClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassroomCategory\BaseClassForm.Designer.cs">
+      <DependentUpon>BaseClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassroomCategory\AddingClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassroomCategory\AddingClass.Designer.cs">
+      <DependentUpon>AddingClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassroomCategory\ClassroomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassroomCategory\ClassroomForm.Designer.cs">
+      <DependentUpon>ClassroomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassroomCategory\SearchingClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassroomCategory\SearchingClass.Designer.cs">
+      <DependentUpon>SearchingClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassroomCategory\EditingClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassroomCategory\EditingClass.Designer.cs">
+      <DependentUpon>EditingClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupCategroy\AddingGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupCategroy\AddingGroup.Designer.cs">
+      <DependentUpon>AddingGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupCategroy\BaseGroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupCategroy\BaseGroupForm.Designer.cs">
+      <DependentUpon>BaseGroupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupCategroy\EditingGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupCategroy\EditingGroup.Designer.cs">
+      <DependentUpon>EditingGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupCategroy\GroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupCategroy\GroupForm.Designer.cs">
+      <DependentUpon>GroupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupCategroy\SearchingGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupCategroy\SearchingGroup.Designer.cs">
+      <DependentUpon>SearchingGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MajorCategory\AddingMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MajorCategory\AddingMajor.Designer.cs">
+      <DependentUpon>AddingMajor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MajorCategory\BaseMajorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MajorCategory\BaseMajorForm.Designer.cs">
+      <DependentUpon>BaseMajorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MajorCategory\EditingMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MajorCategory\EditingMajor.Designer.cs">
+      <DependentUpon>EditingMajor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MajorCategory\MajorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MajorCategory\MajorForm.Designer.cs">
+      <DependentUpon>MajorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MajorCategory\SearchingMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MajorCategory\SearchingMajor.Designer.cs">
+      <DependentUpon>SearchingMajor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\AddingSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\AddingSubject.Designer.cs">
+      <DependentUpon>AddingSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\ClassroomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\ClassroomForm.Designer.cs">
+      <DependentUpon>ClassroomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\EditingSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\EditingSubject.Designer.cs">
+      <DependentUpon>EditingSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\Programming.cs" />
+    <Compile Include="Management\SubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\SubjectForm.Designer.cs">
+      <DependentUpon>SubjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\TeacherForm.Designer.cs">
+      <DependentUpon>TeacherForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\TermForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\TermForm.Designer.cs">
+      <DependentUpon>TermForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\TimeTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management\TimeTableForm.Designer.cs">
+      <DependentUpon>TimeTableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterEntryForm.Designer.cs">
+      <DependentUpon>MasterEntryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterForm.Designer.cs">
+      <DependentUpon>MasterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCategory\DailyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportCategory\DailyForm.Designer.cs">
+      <DependentUpon>DailyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCategory\TimeTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportCategory\TimeTableForm.Designer.cs">
+      <DependentUpon>TimeTableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCategory\TodayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportCategory\TodayForm.Designer.cs">
+      <DependentUpon>TodayForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectCategory\AddingSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectCategory\AddingSubject.Designer.cs">
+      <DependentUpon>AddingSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectCategory\BaseSubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectCategory\BaseSubjectForm.Designer.cs">
+      <DependentUpon>BaseSubjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectCategory\EditingSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectCategory\EditingSubject.Designer.cs">
+      <DependentUpon>EditingSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectCategory\SearchingSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectCategory\SearchingSubject.Designer.cs">
+      <DependentUpon>SearchingSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectCategory\SubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubjectCategory\SubjectForm.Designer.cs">
+      <DependentUpon>SubjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaaliClasses\DataExchange.cs" />
+    <Compile Include="TaaliClasses\SelectionBinding.cs" />
+    <Compile Include="TaaliClasses\DataList.cs" />
+    <Compile Include="TaaliData.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TaaliData.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="TaaliView.cs">
+      <DependentUpon>TaaliView.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="TaaliView.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TaaliView.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherCategory\AddingTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherCategory\AddingTeacher.Designer.cs">
+      <DependentUpon>AddingTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherCategory\BaseTeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherCategory\BaseTeacherForm.Designer.cs">
+      <DependentUpon>BaseTeacherForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherCategory\EditingTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherCategory\EditingTeacher.Designer.cs">
+      <DependentUpon>EditingTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherCategory\SearchingTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherCategory\SearchingTeacher.Designer.cs">
+      <DependentUpon>SearchingTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherCategory\TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherCategory\TeacherForm.Designer.cs">
+      <DependentUpon>TeacherForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeCategory\AutoTimeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeCategory\AutoTimeForm.Designer.cs">
+      <DependentUpon>AutoTimeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeCategory\TimeTableClass.cs" />
+    <Compile Include="TimeCategory\BaseAutoTimeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeCategory\BaseAutoTimeForm.Designer.cs">
+      <DependentUpon>BaseAutoTimeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeCategory\AddingType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeCategory\AddingType.Designer.cs">
+      <DependentUpon>AddingType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeCategory\BaseTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeCategory\BaseTypeForm.Designer.cs">
+      <DependentUpon>BaseTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeCategory\EditingType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeCategory\EditingType.Designer.cs">
+      <DependentUpon>EditingType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeCategory\SearchingType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeCategory\SearchingType.Designer.cs">
+      <DependentUpon>SearchingType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeCategory\TypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeCategory\TypeForm.Designer.cs">
+      <DependentUpon>TypeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bin\Release\DailyReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Release\TimeTableReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TimeTableReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Release\TodayReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TodayReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClassroomCategory\BaseClassForm.resx">
+      <DependentUpon>BaseClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClassroomCategory\AddingClass.resx">
+      <DependentUpon>AddingClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClassroomCategory\EditingClass.resx">
+      <DependentUpon>EditingClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClassroomCategory\SearchingClass.resx">
+      <DependentUpon>SearchingClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupCategroy\AddingGroup.resx">
+      <DependentUpon>AddingGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupCategroy\BaseGroupForm.resx">
+      <DependentUpon>BaseGroupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupCategroy\EditingGroup.resx">
+      <DependentUpon>EditingGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupCategroy\SearchingGroup.resx">
+      <DependentUpon>SearchingGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MajorCategory\AddingMajor.resx">
+      <DependentUpon>AddingMajor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MajorCategory\BaseMajorForm.resx">
+      <DependentUpon>BaseMajorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MajorCategory\EditingMajor.resx">
+      <DependentUpon>EditingMajor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MajorCategory\SearchingMajor.resx">
+      <DependentUpon>SearchingMajor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\AddingSubject.resx">
+      <DependentUpon>AddingSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\ClassroomForm.resx">
+      <DependentUpon>ClassroomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\EditingSubject.resx">
+      <DependentUpon>EditingSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\SubjectForm.resx">
+      <DependentUpon>SubjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\TeacherForm.resx">
+      <DependentUpon>TeacherForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\TermForm.resx">
+      <DependentUpon>TermForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\TimeTableForm.resx">
+      <DependentUpon>TimeTableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterEntryForm.resx">
+      <DependentUpon>MasterEntryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterForm.resx">
+      <DependentUpon>MasterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCategory\DailyForm.resx">
+      <DependentUpon>DailyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCategory\TimeTableForm.resx">
+      <DependentUpon>TimeTableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCategory\TodayForm.resx">
+      <DependentUpon>TodayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubjectCategory\AddingSubject.resx">
+      <DependentUpon>AddingSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubjectCategory\BaseSubjectForm.resx">
+      <DependentUpon>BaseSubjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubjectCategory\EditingSubject.resx">
+      <DependentUpon>EditingSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubjectCategory\SearchingSubject.resx">
+      <DependentUpon>SearchingSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="TaaliData.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>TaaliData.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TaaliView.dbml.layout">
+      <DependentUpon>TaaliView.dbml</DependentUpon>
+    </None>
+    <None Include="TaaliData.dbml.layout">
+      <DependentUpon>TaaliData.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="TeacherCategory\AddingTeacher.resx">
+      <DependentUpon>AddingTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherCategory\BaseTeacherForm.resx">
+      <DependentUpon>BaseTeacherForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherCategory\SearchingTeacher.resx">
+      <DependentUpon>SearchingTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeCategory\AutoTimeForm.resx">
+      <DependentUpon>AutoTimeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeCategory\AddingType.resx">
+      <DependentUpon>AddingType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeCategory\BaseTypeForm.resx">
+      <DependentUpon>BaseTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeCategory\EditingType.resx">
+      <DependentUpon>EditingType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeCategory\SearchingType.resx">
+      <DependentUpon>SearchingType.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <EmbeddedResource Include="TimeCategory\BaseAutoTimeForm.resx">
+      <DependentUpon>BaseAutoTimeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TaaliView.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>TaaliView.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112_Tick_Green_64x64_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112_RefreshArrow_Blue_48x48_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112_Minus_Orange_32x42_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126_Edit_32x42_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base_plus_sign_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112_Plus_Blue_32x42_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restroe icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\continue icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ViewAllPages_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restart icon 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base_plus_sign_321.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

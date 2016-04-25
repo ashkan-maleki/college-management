@@ -1,0 +1,145 @@
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.exe.config
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.exe
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.pdb
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\Shamsi.dll
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\WiseTextBox.dll
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\Shamsi.pdb
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\WiseTextBox.pdb
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.BaseClassForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.AddingClass.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.EditingClass.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.SearchingClass.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.AddingGroup.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.BaseGroupForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.EditingGroup.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.AddingMajor.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.BaseMajorForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.EditingMajor.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.SearchingMajor.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.AddingSubject.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.ClassroomForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.EditingSubject.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.SubjectForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TeacherForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TermForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TimeTableForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MasterEntryForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MainForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MasterForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Properties.Resources.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.TimeTableForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.AddingSubject.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.BaseSubjectForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.EditingSubject.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.SearchingSubject.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.AddingTeacher.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.BaseTeacherForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TimeCategory.AutoTimeForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.AddingType.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.BaseTypeForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.EditingType.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.SearchingType.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TimeCategory.BaseAutoTimeForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.exe
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.pdb
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.SearchingGroup.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.DailyForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.TodayForm.resources
+F:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.SearchingTeacher.resources
+G:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.exe.config
+G:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.exe
+G:\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.pdb
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.exe.config
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.exe
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.pdb
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.csprojResolveAssemblyReference.cache
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.BaseClassForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.AddingClass.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.EditingClass.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.SearchingClass.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.AddingGroup.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.BaseGroupForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.EditingGroup.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.SearchingGroup.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.AddingMajor.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.BaseMajorForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.EditingMajor.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.SearchingMajor.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.AddingSubject.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.ClassroomForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.EditingSubject.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.SubjectForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TeacherForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TermForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TimeTableForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MasterEntryForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MainForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MasterForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Properties.Resources.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.DailyForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.TimeTableForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.TodayForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.AddingSubject.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.BaseSubjectForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.EditingSubject.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.SearchingSubject.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.AddingTeacher.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.BaseTeacherForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.SearchingTeacher.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TimeCategory.AutoTimeForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.AddingType.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.BaseTypeForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.EditingType.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.SearchingType.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TimeCategory.BaseAutoTimeForm.resources
+K:\AA02 - Johnny Cage\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.csproj.GenerateResource.Cache
+K:\AA05 - Johnny Cage (Sent to another element)\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.exe.config
+K:\AA05 - Johnny Cage (Sent to another element)\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.exe
+K:\AA05 - Johnny Cage (Sent to another element)\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.pdb
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\bin\Release\TaaliTimeManagement.exe.config
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.exe
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.pdb
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.csprojResolveAssemblyReference.cache
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.BaseClassForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.AddingClass.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.EditingClass.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ClassCategory.SearchingClass.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.AddingGroup.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.BaseGroupForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.EditingGroup.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.GroupCategroy.SearchingGroup.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.AddingMajor.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.BaseMajorForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.EditingMajor.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MajorCategory.SearchingMajor.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.AddingSubject.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.ClassroomForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.EditingSubject.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.SubjectForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TeacherForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TermForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Management.TimeTableForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MasterEntryForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MainForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.MasterForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.Properties.Resources.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.DailyForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.TimeTableForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.ReportCategory.TodayForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.AddingSubject.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.BaseSubjectForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.EditingSubject.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.SubjectCategory.SearchingSubject.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.AddingTeacher.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.BaseTeacherForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TeacherCategory.SearchingTeacher.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TimeCategory.AutoTimeForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.AddingType.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.BaseTypeForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.EditingType.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TypeCategory.SearchingType.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.TimeCategory.BaseAutoTimeForm.resources
+K:\AA05 - Sent to another element\Visual Studio 2010\CSharp\TaaliTimeManagement\TaaliTimeManagement\obj\x86\Release\TaaliTimeManagement.csproj.GenerateResource.Cache

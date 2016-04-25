@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="TaaliViewDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="TimeTableViews">
+    <Type Name="TimeTableView">
+      <Column Name="Period" Type="System.String" CanBeNull="false" />
+      <Column Name="Saturday" Type="System.String" CanBeNull="false" />
+      <Column Name="Sunday" Type="System.String" CanBeNull="false" />
+      <Column Name="Monday" Type="System.String" CanBeNull="false" />
+      <Column Name="Tuesday" Type="System.String" CanBeNull="false" />
+      <Column Name="Wednesday" Type="System.String" CanBeNull="false" />
+      <Column Name="Thursday" Type="System.String" CanBeNull="false" />
+      <Column Name="Group" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="DailyTableViews">
+    <Type Name="DailyTableView">
+      <Column Name="Group" Type="System.String" CanBeNull="false" />
+      <Column Name="Subject" Type="System.String" CanBeNull="false" />
+      <Column Name="Teacher" Type="System.String" CanBeNull="false" />
+      <Column Name="StartTime" Type="System.String" CanBeNull="false" />
+      <Column Name="EndTime" Type="System.String" CanBeNull="false" />
+      <Column Name="Class" Type="System.String" CanBeNull="false" />
+      <Column Member="HoldingDay" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

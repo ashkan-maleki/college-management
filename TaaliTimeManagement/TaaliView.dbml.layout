@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TaaliView">
+  <DataContextMoniker Name="/TaaliViewDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a839007e-c3aa-446e-ae1e-5c19a7932859" absoluteBounds="0.5, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/TaaliViewDataContext/TimeTableView" />
+      <nestedChildShapes>
+        <elementListCompartment Id="75ca71ca-d1ba-465a-b6af-b8310264b7ee" absoluteBounds="0.515, 0.96, 1.9700000000000002, 1.7878011067708333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1907cfb9-6439-4b4a-b9c8-4417743bd9a7" absoluteBounds="2.75, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/TaaliViewDataContext/DailyTableView" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9addf0cd-a221-4216-bb94-f4b5d0b17c6d" absoluteBounds="2.765, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

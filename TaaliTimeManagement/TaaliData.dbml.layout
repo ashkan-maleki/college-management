@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.25, 20.5" name="TaaliData">
+  <DataContextMoniker Name="/TaaliDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="29fc63df-7fa6-4821-b026-b7d39c254ace" absoluteBounds="9.25, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaaliDataDataContext/Class" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9cba255c-87a3-499b-87a6-7279f3c1c9bc" absoluteBounds="9.265, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0a14b549-624e-4fb7-861b-ee08090d3d2a" absoluteBounds="6.5, 13.625, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/TaaliDataDataContext/UniversityHoldingTime" />
+      <nestedChildShapes>
+        <elementListCompartment Id="300758c7-a640-4f67-9b35-67b0ae4dca9e" absoluteBounds="6.515, 14.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="345bd98f-d96f-489f-8c00-03b1f29d7f73" absoluteBounds="6.25, 16.625, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/TaaliDataDataContext/EmailAddress" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8359dda-f027-43b4-b7ea-a09b6acf673a" absoluteBounds="6.265, 17.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4df64528-4911-430f-8dba-3d15bac20c97" absoluteBounds="6.5, 9.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/TaaliDataDataContext/Group" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94a1f04a-9512-4854-9eeb-6f1d629404be" absoluteBounds="6.515, 9.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f9f2629-61a5-477e-9fcd-d1a4ac66bac5" absoluteBounds="9.25, 4.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/TaaliDataDataContext/GroupSubject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9702247e-f7e8-4666-9804-80989f6ffdce" absoluteBounds="9.265, 4.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1d9eb797-e051-43c0-a13c-935da4810aa8" absoluteBounds="3.75, 9.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaaliDataDataContext/Major" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12dd2bf4-b376-46dc-a8d9-5a2503f95ab2" absoluteBounds="3.765, 10.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a8a81ee6-483d-4003-87a5-163131932d64" absoluteBounds="6.25, 4.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/TaaliDataDataContext/MajorSubject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df701eaf-ec76-40a6-93b9-8ad3974a01e4" absoluteBounds="6.265, 5.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="27840382-78a1-4579-8bfa-9edb44e07a8f" absoluteBounds="9.5, 7.75, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/TaaliDataDataContext/MajorTeacher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="674b80ea-0314-489a-8d12-99da5473fd22" absoluteBounds="9.515, 8.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d4abfad6-04fe-4a6e-b308-68121691b8c5" absoluteBounds="6.25, 18.875, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/TaaliDataDataContext/PhoneNumber" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b061e50-e5d1-4a39-9ce4-b997ff95a5fb" absoluteBounds="6.265, 19.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6dbd78ce-9db3-4d98-a9f7-629746b736b1" absoluteBounds="6.25, 6.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/TaaliDataDataContext/Prerequisite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3bea4d42-e649-4427-91c0-423101ada371" absoluteBounds="6.265, 7.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" absoluteBounds="3.5, 4.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaaliDataDataContext/Subject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="25898ac8-9bf4-4a29-ab39-d62401a3294c" absoluteBounds="3.515, 5.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26c7f2ca-5f3d-4fca-8e6c-629848d73aeb" absoluteBounds="6.25, 1.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaaliDataDataContext/SubjectTeacher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79d51f2f-699a-4730-b175-38a2cd26c4de" absoluteBounds="6.265, 2.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d981e23-1e11-470b-ad21-5e8daeffb2b2" absoluteBounds="0.75, 4.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/TaaliDataDataContext/SubjectType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="71013c8e-5636-41d0-b5fd-995540ef247b" absoluteBounds="0.765, 4.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f41fef32-f006-4bf8-a0b0-9a17491c0b51" absoluteBounds="3.5, 1.75, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/TaaliDataDataContext/Teacher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4bc0bf9-09c5-4ecf-a16c-4de9ec434d65" absoluteBounds="3.515, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="428710cd-c66e-4216-8575-4f5a88fe7032" absoluteBounds="12, 4.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaaliDataDataContext/TimeTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8b396d6-72d5-4093-bd5a-f1cf5b5e0e8f" absoluteBounds="12.015, 5.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6782713f-c83b-490e-889e-95a37116f669" absoluteBounds="9.25, 13.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaaliDataDataContext/TimeTeacher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6d1439cf-8fe8-48e7-a7ff-bc0326657089" absoluteBounds="9.265, 14.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.40625 : 9.5); (8.40625 : 4.59375); (8.79166666666667 : 4.59375 : JumpStart); (8.95833333333333 : 4.59375 : JumpEnd); (9.25 : 4.59375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Group/Group_GroupSubject" />
+      <nodes>
+        <classShapeMoniker Id="4df64528-4911-430f-8dba-3d15bac20c97" />
+        <classShapeMoniker Id="7f9f2629-61a5-477e-9fcd-d1a4ac66bac5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 10.4142976888021); (5.91666666666667 : 10.4142976888021 : JumpStart); (6.14583333333333 : 10.4142976888021 : JumpEnd); (6.5 : 10.4142976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Major/Major_Group" />
+      <nodes>
+        <classShapeMoniker Id="1d9eb797-e051-43c0-a13c-935da4810aa8" />
+        <classShapeMoniker Id="4df64528-4911-430f-8dba-3d15bac20c97" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 9.625); (4.75 : 6.45359537760417); (5.04166666666667 : 6.45359537760417 : JumpStart); (5.20833333333333 : 6.45359537760417 : JumpEnd); (5.75 : 6.45359537760417); (5.75 : 5.44314697265625); (5.91666666666667 : 5.44314697265625 : JumpStart); (6.20833333333333 : 5.44314697265625 : JumpEnd); (6.25 : 5.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Major/Major_MajorSubject" />
+      <nodes>
+        <classShapeMoniker Id="1d9eb797-e051-43c0-a13c-935da4810aa8" />
+        <classShapeMoniker Id="a8a81ee6-483d-4003-87a5-163131932d64" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.2812525 : 9.625); (5.2812525 : 8.7300439453125); (5.91666666666667 : 8.7300439453125 : JumpStart); (6.14583333333333 : 8.7300439453125 : JumpEnd); (8.32291666666667 : 8.7300439453125 : JumpStart); (8.48958333333333 : 8.7300439453125 : JumpEnd); (8.79166666666667 : 8.7300439453125 : JumpStart); (8.95833333333333 : 8.7300439453125 : JumpEnd); (9.5 : 8.7300439453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Major/Major_MajorTeacher" />
+      <nodes>
+        <classShapeMoniker Id="1d9eb797-e051-43c0-a13c-935da4810aa8" />
+        <classShapeMoniker Id="27840382-78a1-4579-8bfa-9edb44e07a8f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.65625); (5.91666666666667 : 4.65625 : JumpStart); (6.20833333333333 : 4.65625 : JumpEnd); (8.79166666666667 : 4.65625 : JumpStart); (8.95833333333333 : 4.65625 : JumpEnd); (9.25 : 4.65625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Subject/Subject_GroupSubject" />
+      <nodes>
+        <classShapeMoniker Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" />
+        <classShapeMoniker Id="7f9f2629-61a5-477e-9fcd-d1a4ac66bac5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.03407348632813); (5.91666666666667 : 5.03407348632812 : JumpStart); (6.20833333333333 : 5.03407348632813 : JumpEnd); (6.25 : 5.03407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Subject/Subject_MajorSubject" />
+      <nodes>
+        <classShapeMoniker Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" />
+        <classShapeMoniker Id="a8a81ee6-483d-4003-87a5-163131932d64" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.125 : 6.20359537760417); (4.125 : 7.56814697265625); (4.66666666666667 : 7.56814697265625 : JumpStart); (4.83333333333333 : 7.56814697265625 : JumpEnd); (5.91666666666667 : 7.56814697265625 : JumpStart); (6.20833333333333 : 7.56814697265625 : JumpEnd); (6.25 : 7.56814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Subject/Subject_Prerequisite" />
+      <nodes>
+        <classShapeMoniker Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" />
+        <classShapeMoniker Id="6dbd78ce-9db3-4d98-a9f7-629746b736b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.125 : 6.20359537760417); (5.125 : 7.19032098632812); (5.91666666666667 : 7.19032098632812 : JumpStart); (6.20833333333333 : 7.19032098632812 : JumpEnd); (6.25 : 7.19032098632812)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Subject/Subject_Prerequisite1" />
+      <nodes>
+        <classShapeMoniker Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" />
+        <classShapeMoniker Id="6dbd78ce-9db3-4d98-a9f7-629746b736b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.625); (5.875 : 4.25); (5.875 : 2.41429768880208); (6.25 : 2.41429768880208)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Subject/Subject_SubjectTeacher" />
+      <nodes>
+        <classShapeMoniker Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" />
+        <classShapeMoniker Id="26c7f2ca-5f3d-4fca-8e6c-629848d73aeb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.41429768880208); (3.5 : 5.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/SubjectType/SubjectType_Subject" />
+      <nodes>
+        <classShapeMoniker Id="3d981e23-1e11-470b-ad21-5e8daeffb2b2" />
+        <classShapeMoniker Id="1358e7d0-6ac5-4f04-a48c-aff1c148304e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.77529531705729); (5.79166666666667 : 2.77529531705729 : JumpStart); (5.95833333333333 : 2.77529531705729 : JumpEnd); (6 : 2.77529531705729); (6 : 16.25); (7.25 : 16.25); (7.25 : 16.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Teacher/Teacher_EmailAddress" />
+      <nodes>
+        <classShapeMoniker Id="f41fef32-f006-4bf8-a0b0-9a17491c0b51" />
+        <classShapeMoniker Id="345bd98f-d96f-489f-8c00-03b1f29d7f73" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 3.1362939453125); (4.5 : 4.375); (5.66666666666667 : 4.375 : JumpStart); (5.83333333333333 : 4.375 : JumpEnd); (5.91666666666667 : 4.375 : JumpStart); (6.08333333333333 : 4.375 : JumpEnd); (6.125 : 4.375); (6.125 : 8.4956664453125); (8.32291666666667 : 8.4956664453125 : JumpStart); (8.48958333333333 : 8.4956664453125 : JumpEnd); (8.79166666666667 : 8.4956664453125 : JumpStart); (8.95833333333333 : 8.4956664453125 : JumpEnd); (9.5 : 8.4956664453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Teacher/Teacher_MajorTeacher" />
+      <nodes>
+        <classShapeMoniker Id="f41fef32-f006-4bf8-a0b0-9a17491c0b51" />
+        <classShapeMoniker Id="27840382-78a1-4579-8bfa-9edb44e07a8f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.031252 : 3.1362939453125); (5.031252 : 4.125); (5.79166666666667 : 4.125 : JumpStart); (5.95833333333333 : 4.125 : JumpEnd); (6.0625 : 4.125); (6.0625 : 19.5681469726563); (6.25 : 19.5681469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Teacher/Teacher_PhoneNumber" />
+      <nodes>
+        <classShapeMoniker Id="f41fef32-f006-4bf8-a0b0-9a17491c0b51" />
+        <classShapeMoniker Id="d4abfad6-04fe-4a6e-b308-68121691b8c5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.01964884440104); (6.25 : 2.01964884440104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Teacher/Teacher_SubjectTeacher" />
+      <nodes>
+        <classShapeMoniker Id="f41fef32-f006-4bf8-a0b0-9a17491c0b51" />
+        <classShapeMoniker Id="26c7f2ca-5f3d-4fca-8e6c-629848d73aeb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 2.03929768880208); (13 : 2.03929768880208); (13 : 4.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/Class/Class_TimeTable" />
+      <nodes>
+        <classShapeMoniker Id="29fc63df-7fa6-4821-b026-b7d39c254ace" />
+        <classShapeMoniker Id="428710cd-c66e-4216-8575-4f5a88fe7032" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 5.41429768880208); (12 : 5.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/GroupSubject/GroupSubject_TimeTable" />
+      <nodes>
+        <classShapeMoniker Id="7f9f2629-61a5-477e-9fcd-d1a4ac66bac5" />
+        <classShapeMoniker Id="428710cd-c66e-4216-8575-4f5a88fe7032" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 14.5392976888021); (13 : 14.5392976888021); (13 : 6.20359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/TimeTeacher/TimeTeacher_TimeTable" />
+      <nodes>
+        <classShapeMoniker Id="6782713f-c83b-490e-889e-95a37116f669" />
+        <classShapeMoniker Id="428710cd-c66e-4216-8575-4f5a88fe7032" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.1362939453125); (5.875 : 3.5112939453125); (5.91666666666667 : 3.5112939453125 : JumpStart); (6.08333333333333 : 3.5112939453125 : JumpEnd); (8.875 : 3.5112939453125); (8.875 : 13.375); (9.25 : 13.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaaliDataDataContext/Teacher/Teacher_TimeTeacher" />
+      <nodes>
+        <classShapeMoniker Id="f41fef32-f006-4bf8-a0b0-9a17491c0b51" />
+        <classShapeMoniker Id="6782713f-c83b-490e-889e-95a37116f669" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 14.5705501888021); (9.25 : 14.5705501888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaaliDataDataContext/UniversityHoldingTime/UniversityHoldingTime_TimeTeacher" />
+      <nodes>
+        <classShapeMoniker Id="0a14b549-624e-4fb7-861b-ee08090d3d2a" />
+        <classShapeMoniker Id="6782713f-c83b-490e-889e-95a37116f669" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
